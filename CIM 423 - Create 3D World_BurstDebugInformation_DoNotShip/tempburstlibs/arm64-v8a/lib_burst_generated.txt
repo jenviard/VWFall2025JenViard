@@ -10,7 +10,6 @@ Library: /Users/jennaviard/Desktop/CIM 423 - Create 3D World/Temp/BurstOutput/te
 --target-framework=NetFramework
 --generate-link-xml=Temp/burst.link.xml
 --temp-folder=/Users/jennaviard/Desktop/CIM 423 - Create 3D World/Temp/Burst
---debug=Full
 --key-folder=/Applications/Unity/Hub/Editor/6000.2.1f1/PlaybackEngines/AndroidPlayer
 --decode-folder=/Users/jennaviard/Desktop/CIM 423 - Create 3D World/Library/Burst
 --output=/Users/jennaviard/Desktop/CIM 423 - Create 3D World/Temp/BurstOutput/tempburstlibs/arm64-v8a/lib_burst_generated
@@ -100,7 +99,6 @@ Library: /Users/jennaviard/Desktop/CIM 423 - Create 3D World/Temp/BurstOutput/te
 --float-mode=Fast
 --generate-link-xml=Temp/burst.link.xml
 --temp-folder=/Users/jennaviard/Desktop/CIM 423 - Create 3D World/Temp/Burst
---debug=Full
 --key-folder=/Applications/Unity/Hub/Editor/6000.2.1f1/PlaybackEngines/AndroidPlayer
 --decode-folder=/Users/jennaviard/Desktop/CIM 423 - Create 3D World/Library/Burst
 --output=/Users/jennaviard/Desktop/CIM 423 - Create 3D World/Temp/BurstOutput/tempburstlibs/arm64-v8a/lib_burst_generated
@@ -119,7 +117,6 @@ Library: /Users/jennaviard/Desktop/CIM 423 - Create 3D World/Temp/BurstOutput/te
 --target-framework=NetFramework
 --generate-link-xml=Temp/burst.link.xml
 --temp-folder=/Users/jennaviard/Desktop/CIM 423 - Create 3D World/Temp/Burst
---debug=Full
 --key-folder=/Applications/Unity/Hub/Editor/6000.2.1f1/PlaybackEngines/AndroidPlayer
 --decode-folder=/Users/jennaviard/Desktop/CIM 423 - Create 3D World/Library/Burst
 --output=/Users/jennaviard/Desktop/CIM 423 - Create 3D World/Temp/BurstOutput/tempburstlibs/arm64-v8a/lib_burst_generated
