@@ -4088,7 +4088,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "A pink flip-phone frozen on the final text: \u201CThey know\u2014run.\u201D
+  m_text: "A  flip-phone frozen on the final text: \u201CThey know\u2014run.\u201D
     Its last signal came from the Orlando stage corridor."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
